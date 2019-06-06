@@ -1,0 +1,5 @@
+npm install
+npm run dev
+
+https://www.youtube.com/watch?v=uK2RnIzrQ0M
+
