@@ -1,0 +1,14 @@
+this might be best
+https://github.com/alshdavid/crayon
+https://github.com/alshdavid/crayon/tree/master/examples/svelte
+
+https://visionmedia.github.io/page.js/
+
+https://github.com/TehShrike/abstract-state-router
+
+https://www.npmjs.com/package/svelte-router
+
+https://github.com/EmilTholin/svelte-routing
+
+
+
